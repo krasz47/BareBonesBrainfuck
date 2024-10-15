@@ -6,7 +6,7 @@ This is a program that takes the barebones language and 'compiles' it into the [
 
 ### What is Bare Bones?
 
-Bare bones has three commapnds for manipulating variables:
+Bare bones has three commands for manipulating variables:
 ```
 clear X;
 incr X;
